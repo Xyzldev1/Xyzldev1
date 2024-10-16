@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on Security Analyst<br>I’m looking to collaborate on Development<br>I’m currently learning
+Hi Im Kian Almeyda
+Currently im a Computer Science Student
 
 
 ## 🌐 Socials:

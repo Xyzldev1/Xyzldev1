@@ -1,4 +1,5 @@
-# 💫 About Me: Hi Im Kian Almeyda Currently im a Computer Science Student
+# 💫 About Me: 
+Hi Im Kian Almeyda Currently im a Computer Science Student
 
 
 ## 🌐 Socials:
